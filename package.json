@@ -1,0 +1,27 @@
+{
+  "name": "exercises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Naillton/ts_exercise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Naillton/ts_exercise/issues"
+  },
+  "homepage": "https://github.com/Naillton/ts_exercise#readme",
+  "dependencies": {
+    "-": "^0.0.1",
+    "@tsconfig/node16": "^1.0.3"
+  },
+  "devDependencies": {
+    "@types/node": "^18.6.1"
+  }
+}
