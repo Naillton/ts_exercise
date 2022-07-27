@@ -25,3 +25,17 @@ export function square(side: number): number {
 export function rectangle(base: number, height: number): number {
   return base * height;
 }
+
+export function losango(diagonalM: number, diagonal: number): number {
+  return (diagonalM * diagonal) / 2;
+}
+
+export function trapezio(B: number, b: number, h: number): number {
+  const sum: number = ((B * b) * h) / 2;
+  return sum;
+}
+
+export function circulo(raio: number): number {
+  const pi: number = 3.14;
+  return (raio * raio) * pi;
+}
